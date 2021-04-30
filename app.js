@@ -74,3 +74,5 @@ button.addEventListener("click", () => {
 form.addEventListener("click", (e) => {
   e.preventDefault();
 });
+
+/* Update Comming soon */
